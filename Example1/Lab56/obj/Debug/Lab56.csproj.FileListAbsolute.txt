@@ -1,0 +1,13 @@
+C:\Users\mvdud\source\repos\Lab56\Lab56\bin\Debug\Lab56.exe.config
+C:\Users\mvdud\source\repos\Lab56\Lab56\bin\Debug\Lab56.exe
+C:\Users\mvdud\source\repos\Lab56\Lab56\bin\Debug\Lab56.pdb
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.csproj.AssemblyReference.cache
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.BallForm.resources
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.Menu.resources
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.Properties.Resources.resources
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.csproj.GenerateResource.cache
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.csproj.CoreCompileInputs.cache
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.exe
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.pdb
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.ConeForm.resources
+C:\Users\mvdud\source\repos\Lab56\Lab56\obj\Debug\Lab56.ParallelepipedForm.resources
